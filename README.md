@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lolosig
-- 👀 I’m interested in Mainframe architecture, Data science and COBOL
-- 🌱 I’m currently learning z/OS, python and COBOL
+- 👀 I’m interested in Microservices Architecture
+- 🌱 I’m currently learning C#, ASP.NET MVC, Web API, ReaxtJs
 - 📫 How to reach me  https://www.linkedin.com/in/marcelo-godoy-33070121b/
 <!---
 lolosig/lolosig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
